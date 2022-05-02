@@ -1,0 +1,27 @@
+h1 {
+    text-align:center;
+    color:darkviolet;
+    }
+
+table {
+    background-color:orchid;
+    border:3px solid mediumorchid;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;}
+
+.apport {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(188,35,218,1) 35%, rgba(0,212,255,1)100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.primaire {
+    text-shadow: 2px 2px 2px #AD157B;
+}
+
+img {
+    border-radius:50%;
+}
